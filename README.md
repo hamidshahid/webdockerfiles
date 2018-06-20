@@ -1,2 +1,3 @@
-# webdockerfiles
-The repository contain docker files for typical web user scenario
+# Web Docker files
+
+The project contains docker files for developers creating web application using .net core and NPM.
